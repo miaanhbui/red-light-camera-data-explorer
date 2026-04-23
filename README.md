@@ -2,6 +2,7 @@
 
 ## Overview
 This project is a C++ console-based data analysis tool designed to explore red-light camera violation data from the City of Chicago. The goal of this project was to practice working with real-world datasets by parsing, validating, and analyzing structured data. Users can interactively explore traffic violations by filtering data based on neighborhood and month. This makes it easier to identify trends and patterns in the dataset.
+
 To build this project, I implemented file I/O operations to read and process large datasets and designed a structured CameraRecord data model to store each entry. One of the main challenges was handling inconsistent and missing data in CSV files, which I addressed by adding strong input validation and debugging parsing logic. Through this process, I improved my ability to work with real-world data, handle edge cases, and build reliable command-line applications.
 
 ## Features
